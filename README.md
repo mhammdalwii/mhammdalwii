@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://twitter.com/mhmmd_alwii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmmd_alwii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-alwi-a317b7278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-alwi-a317b7278" height="30" width="40" /></a>
-<a href="https://fb.com/mhmmd alwii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhmmd alwii" height="30" width="40" /></a>
 <a href="https://instagram.com/mhmmadalwii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmadalwii_" height="30" width="40" /></a>
 </p>
 
