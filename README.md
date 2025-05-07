@@ -79,7 +79,7 @@
 
 ##
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhammdalwii&" alt="webprogrammingptikb21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhammdalwii&" alt="mhammdalwii" /></p>
 
 ###
 
