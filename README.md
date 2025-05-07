@@ -77,10 +77,6 @@
   </a>
 </div>
 
-##
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhammdalwii&" alt="mhammdalwii" /></p>
-
 ###
 
 <br clear="both">
