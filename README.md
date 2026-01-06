@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Alwi</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Alwi | Full Stack Developer & Programmer based in Makassar. Coding enthusiast.</h2>
 
 ###
 
